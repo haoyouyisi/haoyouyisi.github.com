@@ -2,6 +2,7 @@
 layout: post
 title: 挚爱，反经典阅读
 description: 
+记得上几次我妹妹叫我推荐一些书给她看，我推了很多，比如明朝那些事，比如三体,阿斯特拉耸耸肩，亦或者animals farm ，1984之类的，后来还有很多人也跟我讨论了这些。 
 category: blog
 tags: 阅读
 published: true
